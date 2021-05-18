@@ -944,7 +944,7 @@ ScriptsOnlyBuild:
     className: AxeBarrier
   - hash:
       serializedVersion: 2
-      Hash: 27df8e4e5fadff134e8e33206c4bedb1
+      Hash: 58708d503a6b49b11823b52269f2dc79
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: LocationsController
@@ -959,4 +959,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/MainScene.unity
   - Assets/Scenes/RoadScene.unity
   - Assets/Scenes/ShopScene.unity
-  playerPath: C:/Users/denis/Desktop/runner.apk
+  playerPath: C:/Users/denis/cube_runner/cuber_runner.apk
